@@ -71,7 +71,15 @@
       ]
     }
   ],
-  "prizes": [],
+  "prizes": [
+    {
+      "id": "welcome-gift",
+      "date": "2026-10-01",
+      "title": "A GIFT: 2 FREE SKIPS",
+      "body": "Thanks for playing Crossbar Challenge. Stuck on a level? Press SKIP and use one - no ad.",
+      "skips": 2
+    }
+  ],
   "social": [
     {
       "site": "youtube",
