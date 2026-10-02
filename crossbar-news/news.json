@@ -2,6 +2,19 @@
   "format": 1,
   "news": [
     {
+      "id": "share-for-nl",
+      "date": "2026-10-03",
+      "title": "LEAGUE OF NATIONS IN 24 HOURS",
+      "body": "Crossbar Challenge is made by a tiny team, and every player counts. You are the reason this game keeps growing. In 24 hours we open a brand new mode: the LEAGUE OF NATIONS. Before it arrives, please share the game with your friends. Every share helps us keep building. Thank you for being here.",
+      "image": "img/share-for-nl-81a67b7e.png",
+      "buttons": [
+        {
+          "text": "SHARE THE GAME",
+          "go": "share"
+        }
+      ]
+    },
+    {
       "id": "support-us-nl-soon",
       "date": "2026-10-02",
       "title": "WE NEED YOUR SUPPORT!",
