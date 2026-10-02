@@ -2,6 +2,23 @@
   "format": 1,
   "news": [
     {
+      "id": "support-us-nl-soon",
+      "date": "2026-10-02",
+      "title": "WE NEED YOUR SUPPORT!",
+      "body": "LEAGUE OF NATIONS is coming soon! We are a tiny team, and you are how this game grows. Please follow us and share the game with your friends - it helps us more than you know. Thank you!",
+      "image": "img/support-us-nl-soon-364de502.png",
+      "buttons": [
+        {
+          "text": "SHARE THE GAME",
+          "go": "invite"
+        },
+        {
+          "text": "FOLLOW US ON INSTAGRAM",
+          "link": "https://www.instagram.com/crossbar_challengee/reels/"
+        }
+      ]
+    },
+    {
       "id": "update-ancient-egypt",
       "date": "2026-10-01",
       "title": "NEW UPDATE: ANCIENT EGYPT!",
