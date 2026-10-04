@@ -1,6 +1,20 @@
 {
   "format": 1,
-  "news": [],
+  "news": [
+    {
+      "id": "nl-poll",
+      "date": "2026-10-04",
+      "title": "DID YOU LIKE THE NEW MODE?",
+      "body": "The League of Nations is here. One tap - tell us what you think.",
+      "image": "img/nl-poll-9ab9ac36.png",
+      "poll": [
+        "LOVED IT",
+        "IT'S OK",
+        "NOT FOR ME",
+        "NOT PLAYED YET"
+      ]
+    }
+  ],
   "prizes": [
     {
       "id": "welcome-gift",
