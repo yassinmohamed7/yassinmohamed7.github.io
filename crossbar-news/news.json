@@ -2,6 +2,19 @@
   "format": 1,
   "news": [
     {
+      "id": "share-is-caring",
+      "date": "2026-10-06",
+      "title": "SHARING IS CARING",
+      "body": "Thank you for playing! If you enjoy the game, please share it with a friend. Every share helps us grow.",
+      "image": "img/share-is-caring-28072f2b.png",
+      "buttons": [
+        {
+          "text": "SHARE THE GAME",
+          "go": "share"
+        }
+      ]
+    },
+    {
       "id": "nl-poll",
       "date": "2026-10-04",
       "title": "DID YOU LIKE THE NEW MODE?",
