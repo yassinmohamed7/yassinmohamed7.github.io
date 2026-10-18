@@ -2,6 +2,19 @@
   "format": 1,
   "news": [
     {
+      "id": "play-review",
+      "date": "2026-10-18",
+      "title": "HOW ARE WE DOING?",
+      "body": "We are a tiny team and we read every review. If you enjoy hitting the crossbar, a few words on Google Play help new players find the game. Something you don't like? Tell us there too - it helps us fix it!",
+      "image": "img/play-review-084961e2.png",
+      "buttons": [
+        {
+          "text": "WRITE A REVIEW",
+          "go": "store"
+        }
+      ]
+    },
+    {
       "id": "welcome-crossy",
       "date": "2026-10-18",
       "title": "WELCOME CROSSY!",
