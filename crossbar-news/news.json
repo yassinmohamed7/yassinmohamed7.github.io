@@ -2,6 +2,19 @@
   "format": 1,
   "news": [
     {
+      "id": "welcome-crossy",
+      "date": "2026-10-18",
+      "title": "WELCOME CROSSY!",
+      "body": "Say hi to Crossy, the new mascot of Crossbar Challenge! A real crossbar with big eyes and white gloves, and he loves a good bar hit. He arrives with the next update - share the game so your friends meet him too!",
+      "image": "img/welcome-crossy-8a995c18.png",
+      "buttons": [
+        {
+          "text": "SHARE THE GAME",
+          "go": "share"
+        }
+      ]
+    },
+    {
       "id": "cl-coming-tuesday",
       "date": "2026-10-09",
       "title": "LEAGUE OF CHAMPIONS - THIS TUESDAY",
