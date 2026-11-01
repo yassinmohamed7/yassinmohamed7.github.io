@@ -2,6 +2,19 @@
   "format": 1,
   "news": [
     {
+      "id": "team-logo-soon",
+      "date": "2026-11-01",
+      "title": "YOUR TEAM, YOUR LOGO",
+      "body": "Coming in the next update: upload your own team's logo. You only do it once, and it stays with you forever.",
+      "image": "img/team-logo-soon-68d464d4.png",
+      "buttons": [
+        {
+          "text": "SHARE THE GAME",
+          "go": "share"
+        }
+      ]
+    },
+    {
       "id": "play-review",
       "date": "2026-10-18",
       "title": "HOW ARE WE DOING?",
