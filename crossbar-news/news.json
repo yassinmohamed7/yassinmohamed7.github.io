@@ -2,6 +2,19 @@
   "format": 1,
   "news": [
     {
+      "id": "share-your-link",
+      "date": "2026-11-03",
+      "title": "SHARE THE GAME WITH A FRIEND",
+      "body": "THANK YOU FOR PLAYING CROSSBAR CHALLENGE! WE ARE A SMALL TEAM, AND EVERY NEW PLAYER HELPS US KEEP MAKING NEW MODES AND LEVELS. IF YOU ENJOY THE GAME, PLEASE SEND YOUR SHARE LINK TO A FRIEND. IT TAKES ONE TAP!",
+      "image": "img/share-your-link-3049b235.png",
+      "buttons": [
+        {
+          "text": "SHARE THE GAME",
+          "go": "share"
+        }
+      ]
+    },
+    {
       "id": "team-logo-soon",
       "date": "2026-11-01",
       "title": "YOUR TEAM, YOUR LOGO",
