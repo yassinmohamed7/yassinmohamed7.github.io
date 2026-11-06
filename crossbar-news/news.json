@@ -2,6 +2,19 @@
   "format": 1,
   "news": [
     {
+      "id": "team-logo-howto",
+      "date": "2026-11-06",
+      "title": "HOW TO ADD YOUR TEAM'S LOGO",
+      "body": "PUT YOUR OWN TEAM'S LOGO IN THE GAME! 1. TAP SETTINGS (THE GEAR) ON THE MENU. 2. TAP TEAM LOGOS + NAMES. 3. FIND YOUR CLUB, TAP UPLOAD LOGO AND PICK A PICTURE. YOU CAN CHANGE ITS NAME THERE TOO.",
+      "image": "img/team-logo-howto-55b841af.png",
+      "buttons": [
+        {
+          "text": "SHARE THE GAME",
+          "go": "share"
+        }
+      ]
+    },
+    {
       "id": "share-your-link",
       "date": "2026-11-03",
       "title": "SHARE THE GAME WITH A FRIEND",
